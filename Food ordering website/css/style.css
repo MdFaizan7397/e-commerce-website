@@ -8,6 +8,9 @@
     --navbar-height: 59px;
 }
 
+html{
+   scroll-behavior: smooth;
+}
 /*navigation bar */
 #navbar{
     display: flex; /* sidha sidha sab kuch ek row me aya jata ha*/

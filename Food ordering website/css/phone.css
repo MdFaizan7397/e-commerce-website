@@ -12,9 +12,12 @@
 
 /*Home section*/
 #home{
- height: 400px;
+ height: 370px;
+ padding: 0px 7px;
+ padding-bottom: 8px;
 
 }
+
 #home p{
     font-size: 13px;
     padding: 3px 20px;
@@ -24,8 +27,7 @@
 #home::before{
     height: 480px;
    
-   }
-
+   }  
 /*services*/
 #services{
  flex-direction: column;
